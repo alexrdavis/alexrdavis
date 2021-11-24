@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - ❤  Associates degree in Programming & System Analysis
-- 🌱 Learning Full Stack development
+- 🌱 Focus on full stack development
 - 📫 Reach me at alexdavis0413@gmail.com
 
 <!---
