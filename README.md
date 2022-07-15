@@ -8,7 +8,7 @@ As a developer with a tech support background, I know where customers get stuck 
 
 *   🖥️  See my portfolio at [Davis Development](http://davisdevelopment.netlify.app/)
 *   ✉️  You can contact me at [alexandra.davis13@outlook.com](mailto:alexandra.davis13@outlook.com)
-*   🚀  I'm currently working on [Gluten Free Tool](http://github.com/alexrdavis/GlutenFree)
+*   🚀  I'm currently working on [Assignments API](https://github.com/alexrdavis/100DevsAssignmentAPI)
 
 ### Skills
 <p align="left">
