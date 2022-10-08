@@ -6,7 +6,7 @@ full stack web developer
 
 As a developer with a tech support background, I know where customers get stuck and have experience helping both customers and development teams find solutions. My passion is creating effective and helpful solutions that solve real problems.
 
-*   🖥️  See my portfolio at [Davis Development](http://davisdevelopment.netlify.app/)
+*   🖥️  See my portfolio at [Alexandra Davis](https://alexandradavis.netlify.app/)
 *   ✉️  You can contact me at [alexandra.davis13@outlook.com](mailto:alexandra.davis13@outlook.com)
 *   🚀  I'm currently working on [Assignments API](https://github.com/alexrdavis/100DevsAssignmentAPI)
 
