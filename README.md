@@ -1,7 +1,7 @@
 Hi 👋 My name is Alexandra
 ==========================
 
-full stack web developer
+Software Engineer
 ------------------------
 
 As a developer with a tech support background, I know where customers get stuck and have experience helping both customers and development teams find solutions. My passion is creating effective and helpful solutions that solve real problems.
